@@ -1,4 +1,4 @@
-module C/Users/tommy/Desktop/workspace/golang/catalogue/tools/go.mod
+module catalogue
 
 go 1.17
 
