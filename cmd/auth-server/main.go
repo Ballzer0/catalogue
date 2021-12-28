@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Ballzer0/catalogue/pkg/auth/authorizationserver"
+import "github.com/Ballzer0/catalogue/pkg/authorizationserver"
 
 func main() {
 	// ### oauth2 server ###
